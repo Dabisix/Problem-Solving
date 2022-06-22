@@ -13,7 +13,7 @@ ps 문제 및 개념 정리 공간입니다.
 
 ### :scroll: 백준
 |No|분야|등급|문제|등록일시|진행상태|
-| ------ | ------ | ------ | ------ | ------ | ------ |
+| :------: | :------: | :------: | ------ | ------ | :------: |
 | 1 | [Bronze](Baekjoon/bronze) | `브론즈 5` | [A+B](Baekjoon/bronze/b1000.md) | 2022-01-12 | :white_check_mark: |
 | 2 | [Bronze](Baekjoon/bronze) | `브론즈 2` | [OX퀴즈](Baekjoon/bronze/b8958.md) | 2022-01-19 | :white_check_mark: |
 | 3 | [Silver](Baekjoon/silver) | `실버 4` | [에라토스테네스의 체](Baekjoon/silver/b2960.md) | 2022-01-24 | :white_check_mark: |
@@ -125,7 +125,7 @@ ps 문제 및 개념 정리 공간입니다.
 
 ### :books: 프로그래머스
 |No|분야|등급|문제|등록일시|진행상태|
-| ------ | ------ | ------ | ------ | ------ | ------ |
+| :------: | :------: | :------: | ------ | ------ | :------: |
 | 1 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [거리두기 확인하기](Programmers/Lv.2/p81302.md) | 2022-05-10 | :white_check_mark: |
 | 2 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [메뉴 리뉴얼](Programmers/Lv.2/p72411.md) | 2022-06-03 | :white_check_mark: |
 | 3 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [모음사전](Programmers/Lv.2/p84512.md) | 2022-06-07 | :white_check_mark: |
@@ -133,7 +133,7 @@ ps 문제 및 개념 정리 공간입니다.
 
 ### :bookmark: 소프트웨어역량테스트
 |No|분야|등급|문제|등록일시|진행상태|
-| ------ | ------ | ------ | ------ | ------ | ------ |
+| :------: | :------: | :------: | ------ | ------ | :------: |
 | 1 | [D2](SWEA/D2) | `D2` | [달팽이 숫자](SWEA/D2/s1954.md) | 2022-02-03 | :white_check_mark: |
 | 2 | [D3](SWEA/D3) | `D3` | [원재의 메모리 복구하기](SWEA/D3/s1289.md) | 2022-02-03 | :white_check_mark: |
 | 3 | [D3](SWEA/D3) | `D3` | [상호의 배틀필드](SWEA/D3/s1873.md) | 2022-02-04 | :white_check_mark: |
@@ -164,6 +164,6 @@ ps 문제 및 개념 정리 공간입니다.
 
 ### :pencil2: 정올
 |No|분야|등급|문제|등록일시|진행상태|
-| ------ | ------ | ------ | ------ | ------ | ------ |
+| :------: | :------: | :------: | ------ | ------ | :------: |
 | 1 | [Unrated](Jungol) | `Unrated` | [냉장고](Jungol/j1828.md) | 2022-02-15 | :white_check_mark: |
 | 2 | [Unrated](Jungol) | `Unrated` | [해밀턴 순환회로](Jungol/j1681.md) | 2022-02-24 | :white_check_mark: |
