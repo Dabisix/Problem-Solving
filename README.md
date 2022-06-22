@@ -105,7 +105,7 @@ ps 문제 및 개념 정리 공간입니다.
 | 89 | [Gold](Baekjoon/gold) | `골드 4` | [게리멘더링](Baekjoon/gold/b17471.md) | 2022-04-10 | :white_check_mark: |
 | 90 | [Gold](Baekjoon/gold) | `골드 5` | [연구소2](Baekjoon/gold/b17141.md) | 2022-04-12 | :white_check_mark: |
 | 91 | [Silver](Baekjoon/silver) | `실버 1` | [맥주 마시면서 걸어가기](Baekjoon/silver/b9205.md) | 2022-04-13 | :white_check_mark: |
-| 92 | [Gold](Baekjoon/gold) | `실버 1` | [톱니바퀴(2](Baekjoon/gold/b15662.md) | 2022-04-13 | :white_check_mark: |
+| 92 | [Gold](Baekjoon/gold) | `실버 1` | [톱니바퀴(2)](Baekjoon/gold/b15662.md) | 2022-04-13 | :white_check_mark: |
 | 93 | [Gold](Baekjoon/gold) | `골드 5` | [톱니바퀴](Baekjoon/gold/b14891.md) | 2022-04-13 | :white_check_mark: |
 | 94 | [Gold](Baekjoon/gold) | `골드 4` | [연구소3](Baekjoon/gold/b17142.md) | 2022-04-15 | :white_check_mark: |
 | 95 | [Gold](Baekjoon/gold) | `골드 5` | [파이프 옮기기 1](Baekjoon/gold/b17070.md) | 2022-04-15 | :white_check_mark: |
@@ -153,7 +153,7 @@ ps 문제 및 개념 정리 공간입니다.
 | 17 | [D2](SWEA/D2) | `D2` | [가랏! RC카](SWEA/D2/s1940.md) | 2022-02-15 | :white_check_mark: |
 | 18 | [Unrated](SWEA/Unrated) | `Unrated` | [요리사](SWEA/Unrated/s4012.md) | 2022-02-16 | :white_check_mark: |
 | 19 | [D5](SWEA/D5) | `D5` | [최적경로](SWEA/D5/s1247.md) | 2022-02-17 | :white_check_mark: |
-| 20 | [D4](SWEA/D4) | `D4` | [준환이의 양팔저울](SWEA/D4/s3234.md) | 2022-02-18 순환회로	
+| 20 | [D4](SWEA/D4) | `D4` | [준환이의 양팔저울](SWEA/D4/s3234.md) | 2022-02-18 | :white_check_mark: |
 | 21 | [D4](SWEA/D4) | `D4` | [Contact](SWEA/D4/s1238.md) | 2022-02-21 | :white_check_mark: |
 | 22 | [D4](SWEA/D4) | `D4` | [하나로](SWEA/D4/s1251.md) | 2022-02-22 | :white_check_mark: |
 | 23 | [D4](SWEA/D4) | `D4` | [창용 마을 무리의 개수](SWEA/D4/s7465.md) | 2022-02-22 | :white_check_mark: |
