@@ -7,7 +7,7 @@ ps 문제 및 개념 정리 공간입니다.
 
 - [프로그래머스](#books-프로그래머스)
 
-- [SWEA](#bookmark-소프트웨어역량테스트)
+- [SWEA](#SWEA)
 
 - [정올](#pencil2-정올)
 
@@ -131,7 +131,7 @@ ps 문제 및 개념 정리 공간입니다.
 | 3 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [모음사전](Programmers/Lv.2/p84512.md) | 2022-06-07 | :white_check_mark: |
 | 4 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [이진변환 반복하기](Programmers/Lv.2/p70129.md) | 2022-06-17 | :white_check_mark: |
 
-### :bookmark: 소프트웨어역량테스트
+### :bookmark: 소프트웨어역량테스트 <a id="SWEA"></a>
 |No|분야|등급|문제|등록일시|진행상태|
 | :------: | :------: | :------: | ------ | ------ | :------: |
 | 1 | [D2](SWEA/D2) | `D2` | [달팽이 숫자](SWEA/D2/s1954.md) | 2022-02-03 | :white_check_mark: |
