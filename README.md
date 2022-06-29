@@ -123,6 +123,7 @@ ps 문제 및 개념 정리 공간입니다.
 | 107 | [Silver](Baekjoon/silver) | `실버 4` | [상근이의 여행](Baekjoon/silver/b9372.md) | 2022-06-22 | :white_check_mark: |
 | 108 | [Silver](Baekjoon/silver) | `실버 3` | [배열 복원하기](Baekjoon/silver/b16967.md) | 2022-06-23 | :white_check_mark: |
 | 109 | [Gold](Baekjoon/gold) | `골드 5` | [조 짜기](Baekjoon/gold/b2229.md) | 2022-06-28 | :white_check_mark: |
+| 110 | [Gold](Baekjoon/gold) | `골드 5` | [회장뽑기](Baekjoon/gold/b2660.md) | 2022-06-29 | :white_check_mark: |
 
 
 ### :books: 프로그래머스
