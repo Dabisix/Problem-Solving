@@ -127,6 +127,7 @@ ps 문제 및 개념 정리 공간입니다.
 | 111 | [Gold](Baekjoon/gold) | `골드 4` | [괄호 추가하기](Baekjoon/gold/b16637.md) | 2022-06-30 | :white_check_mark: |
 | 112 | [Gold](Baekjoon/gold) | `골드 4` | [트리의 지름](Baekjoon/gold/b1967.md) | 2022-07-01 | :white_check_mark: |
 | 113 | [Gold](Baekjoon/gold) | `골드 5` | [토마토](Baekjoon/gold/b7576.md) | 2022-07-02 | :white_check_mark: |
+| 114 | [Gold](Baekjoon/gold) | `골드 5` | [토마토](Baekjoon/gold/b7569.md) | 2022-07-02 | :white_check_mark: |
 
 
 ### :books: 프로그래머스
