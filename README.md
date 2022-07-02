@@ -1,4 +1,4 @@
-# Problem-Solving
+# Problem Solving
 ps 문제 및 개념 정리 공간입니다.
 
 
@@ -125,6 +125,7 @@ ps 문제 및 개념 정리 공간입니다.
 | 109 | [Gold](Baekjoon/gold) | `골드 5` | [조 짜기](Baekjoon/gold/b2229.md) | 2022-06-28 | :white_check_mark: |
 | 110 | [Gold](Baekjoon/gold) | `골드 5` | [회장뽑기](Baekjoon/gold/b2660.md) | 2022-06-29 | :white_check_mark: |
 | 111 | [Gold](Baekjoon/gold) | `골드 4` | [괄호 추가하기](Baekjoon/gold/b16637.md) | 2022-06-30 | :white_check_mark: |
+| 112 | [Gold](Baekjoon/gold) | `골드 4` | [트리의 지름](Baekjoon/gold/b1967.md) | 2022-07-01 | :white_check_mark: |
 
 
 ### :books: 프로그래머스
