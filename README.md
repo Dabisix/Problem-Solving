@@ -130,6 +130,7 @@ ps 문제 및 개념 정리 공간입니다.
 | 114 | [Gold](Baekjoon/gold) | `골드 5` | [토마토](Baekjoon/gold/b7569.md) | 2022-07-02 | :white_check_mark: |
 | 115 | [Gold](Baekjoon/gold) | `골드 4` | [알고스팟](Baekjoon/gold/b1261.md) | 2022-07-03 | :white_check_mark: |
 | 116 | [Gold](Baekjoon/gold) | `골드 4` | [여행가자](Baekjoon/gold/b1976.md) | 2022-07-06 | :white_check_mark: |
+| 117 | [Gold](Baekjoon/gold) | `골드 5` | [입력 숫자](Baekjoon/gold/b8981.md) | 2022-07-15 | :white_check_mark: |
 
 
 ### :books: 프로그래머스
