@@ -141,6 +141,7 @@ ps 문제 및 개념 정리 공간입니다.
 | 3 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [모음사전](Programmers/Lv.2/p84512.md) | 2022-06-07 | :white_check_mark: |
 | 4 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [이진변환 반복하기](Programmers/Lv.2/p70129.md) | 2022-06-17 | :white_check_mark: |
 | 5 | [Lv 3](Programmers/Lv.3) | `Lv 3` | [정수 삼각형](Programmers/Lv.3/p43105.md) | 2022-07-07 | :white_check_mark: |
+| 6 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [수식 최대화](Programmers/Lv.2/p67257.md) | 2022-07-16 | :white_check_mark: |
 
 ### :bookmark: SWEA <a id="SWEA"></a>
 |No|분야|등급|문제|등록일시|진행상태|
