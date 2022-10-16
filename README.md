@@ -134,6 +134,7 @@ ps 문제 및 개념 정리 공간입니다.
 | 118 | [Gold](Baekjoon/gold) | `골드 4` | [시루의 백화점 구경](Baekjoon/gold/b25307.md) | 2022-08-02 | :white_check_mark: |
 | 119 | [Gold](Baekjoon/gold) | `골드 5` | [뱀과 사다리 게임](Baekjoon/gold/b16928.md) | 2022-08-25 | :white_check_mark: |
 | 120 | [Gold](Baekjoon/gold) | `골드 5` | [합분해](Baekjoon/gold/b2225.md) | 2022-09-24 | :white_check_mark: |
+| 121 | [Silver](Baekjoon/silver) | `실버 1` | [동물원](Baekjoon/silver/b1309.md) | 2022-10-16 | :white_check_mark: |
 
 
 ### :books: 프로그래머스
