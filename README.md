@@ -1,5 +1,5 @@
 # Problem Solving
-ps 문제 및 개념 정리 공간입니다.
+✏️ps 문제 및 개념 정리 공간입니다.
 
 
 ## 문제 목록
@@ -148,6 +148,7 @@ ps 문제 및 개념 정리 공간입니다.
 | 6 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [수식 최대화](Programmers/Lv.2/p67257.md) | 2022-07-16 | :white_check_mark: |
 | 7 | [Lv 1](Programmers/Lv.1) | `Lv 1` | [두개 뽑아서 더하기](Programmers/Lv.1/p68644.md) | 2022-07-16 | :white_check_mark: |
 | 8 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [N개의 최소공배수](Programmers/Lv.2/p12953.md) | 2022-07-16 | :white_check_mark: |
+| 9 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [타겟 넘버](Programmers/Lv.2/p43165.md) | 2022-10-19 | :white_check_mark: |
 
 ### :bookmark: SWEA <a id="SWEA"></a>
 |No|분야|등급|문제|등록일시|진행상태|
