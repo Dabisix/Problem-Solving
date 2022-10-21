@@ -149,6 +149,8 @@
 | 7 | [Lv 1](Programmers/Lv.1) | `Lv 1` | [두개 뽑아서 더하기](Programmers/Lv.1/p68644.md) | 2022-07-16 | :white_check_mark: |
 | 8 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [N개의 최소공배수](Programmers/Lv.2/p12953.md) | 2022-07-16 | :white_check_mark: |
 | 9 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [타겟 넘버](Programmers/Lv.2/p43165.md) | 2022-10-19 | :white_check_mark: |
+| 10 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [게임 맵 최단거리](Programmers/Lv.2/p1844.md) | 2022-10-21 | :white_check_mark: |
+| 11 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [멀리 뛰기](Programmers/Lv.2/p12914.md) | 2022-10-21 | :white_check_mark: |
 
 ### :bookmark: SWEA <a id="SWEA"></a>
 |No|분야|등급|문제|등록일시|진행상태|
