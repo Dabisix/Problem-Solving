@@ -135,6 +135,7 @@
 | 119 | [Gold](Baekjoon/gold) | `골드 5` | [뱀과 사다리 게임](Baekjoon/gold/b16928.md) | 2022-08-25 | :white_check_mark: |
 | 120 | [Gold](Baekjoon/gold) | `골드 5` | [합분해](Baekjoon/gold/b2225.md) | 2022-09-24 | :white_check_mark: |
 | 121 | [Silver](Baekjoon/silver) | `실버 1` | [동물원](Baekjoon/silver/b1309.md) | 2022-10-16 | :white_check_mark: |
+| 122 | [Gold](Baekjoon/gold) | `골드 2` | [트리의 높이와 너비](Baekjoon/gold/b2250.md) | 2022-10-22 | :white_check_mark: |
 
 
 ### :books: 프로그래머스
