@@ -138,6 +138,9 @@
 | 122 | [Gold](Baekjoon/gold) | `골드 2` | [트리의 높이와 너비](Baekjoon/gold/b2250.md) | 2022-10-22 | :white_check_mark: |
 | 123 | [Silver](Baekjoon/silver) | `실버 1` | [1로 만들기 2](Baekjoon/silver/b12852.md) | 2022-12-12 | :white_check_mark: |
 | 124 | [Gold](Baekjoon/gold) | `골드 5` | [퇴사 2](Baekjoon/gold/b15486.md) | 2022-12-12 | :white_check_mark: |
+| 125 | [Gold](Baekjoon/gold) | `골드 5` | [줄어드는 수](Baekjoon/gold/b1174.md) | 2022-12-13 | :white_check_mark: |
+| 126 | [Gold](Baekjoon/gold) | `골드 5` | [공주님을 구하라!](Baekjoon/gold/b17836.md) | 2022-12-14 | :white_check_mark: |
+| 127 | [Gold](Baekjoon/gold) | `골드 5` | [트리](Baekjoon/gold/b1068.md) | 2022-12-15 | :white_check_mark: |
 
 
 ### :books: 프로그래머스
