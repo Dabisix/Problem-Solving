@@ -1,6 +1,7 @@
 # Problem Solving
 ✏️ps 문제 및 개념 정리 공간입니다.
 
+</br>
 
 ## 문제 목록
 - [백준](#scroll-백준)
@@ -10,6 +11,10 @@
 - [SWEA](#SWEA)
 
 - [정올](#pencil2-정올)
+
+- [소프티어](#icecream-소프티어)
+
+</br>
 
 ### :scroll: 백준
 |No|분야|등급|문제|등록일시|진행상태|
@@ -141,7 +146,9 @@
 | 125 | [Gold](Baekjoon/gold) | `골드 5` | [줄어드는 수](Baekjoon/gold/b1174.md) | 2022-12-13 | :white_check_mark: |
 | 126 | [Gold](Baekjoon/gold) | `골드 5` | [공주님을 구하라!](Baekjoon/gold/b17836.md) | 2022-12-14 | :white_check_mark: |
 | 127 | [Gold](Baekjoon/gold) | `골드 5` | [트리](Baekjoon/gold/b1068.md) | 2022-12-15 | :white_check_mark: |
+| 128 | [Gold](Baekjoon/gold) | `골드 5` | [동작 그만. 밑장 빼기냐?](Baekjoon/gold/b20159.md) | 2023-01-08 | :white_check_mark: |
 
+</br>
 
 ### :books: 프로그래머스
 |No|분야|등급|문제|등록일시|진행상태|
@@ -157,6 +164,8 @@
 | 9 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [타겟 넘버](Programmers/Lv.2/p43165.md) | 2022-10-19 | :white_check_mark: |
 | 10 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [게임 맵 최단거리](Programmers/Lv.2/p1844.md) | 2022-10-21 | :white_check_mark: |
 | 11 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [멀리 뛰기](Programmers/Lv.2/p12914.md) | 2022-10-21 | :white_check_mark: |
+
+</br>
 
 ### :bookmark: SWEA <a id="SWEA"></a>
 |No|분야|등급|문제|등록일시|진행상태|
@@ -188,9 +197,19 @@
 | 25 | [D6](SWEA/D6) | `D6` | [사람 네트워크2](SWEA/D6/s1263.md) | 2022-04-04 | :white_check_mark: |
 | 26 | [D3](SWEA/D3) | `D3` | [조합](SWEA/D3/s5607.md) | 2022-04-11 | :white_check_mark: |
 
+</br>
 
 ### :pencil2: 정올
 |No|분야|등급|문제|등록일시|진행상태|
 | :------: | :------: | :------: | ------ | ------ | :------: |
 | 1 | [Unrated](Jungol) | `Unrated` | [냉장고](Jungol/j1828.md) | 2022-02-15 | :white_check_mark: |
 | 2 | [Unrated](Jungol) | `Unrated` | [해밀턴 순환회로](Jungol/j1681.md) | 2022-02-24 | :white_check_mark: |
+
+</br>
+
+### :icecream: 소프티어
+|No|분야|등급|문제|등록일시|진행상태|
+| :------: | :------: | :------: | ------ | ------ | :------: |
+| 1 | [Level 1](Softeer/level%201) | `Level 1` | [근무 시간](Softeer/level%201/h990.md) | 2023-01-02 | :white_check_mark: |
+| 2 | [Level 2](Softeer/level%202) | `Level 2` | [8단 변속기](Softeer/level%202/h116880.md) | 2023-01-03 | :white_check_mark: |
+| 3 | [Level 2](Softeer/level%202) | `Level 2` | [바이러스](Softeer/level%202/h116908.md) | 2023-01-03 | :white_check_mark: |
