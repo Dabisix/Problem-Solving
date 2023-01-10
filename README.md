@@ -148,6 +148,7 @@
 | 127 | [Gold](Baekjoon/gold) | `골드 5` | [트리](Baekjoon/gold/b1068.md) | 2022-12-15 | :white_check_mark: |
 | 128 | [Gold](Baekjoon/gold) | `골드 5` | [동작 그만. 밑장 빼기냐?](Baekjoon/gold/b20159.md) | 2023-01-08 | :white_check_mark: |
 | 129 | [Gold](Baekjoon/gold) | `골드 5` | [회문](Baekjoon/gold/b17609.md) | 2023-01-09 | :white_check_mark: |
+| 130 | [Silver](Baekjoon/silver) | `실버 3` | [팰린드롬 만들기](Baekjoon/silver/b1213.md) | 2023-01-10 | :white_check_mark: |
 
 </br>
 
