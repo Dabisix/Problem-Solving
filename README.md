@@ -1,5 +1,7 @@
 # Problem Solving
-✏️ps 문제 및 개념 정리 공간입니다.
+```
+✏️ ps 문제 및 개념 정리 공간입니다.
+```
 
 </br>
 
@@ -158,6 +160,14 @@
 | 137 | [Silver](Baekjoon/silver) | `실버 1` | [안전 영역](Baekjoon/silver/b2468.md) | 2023-01-23 | :white_check_mark: |
 | 138 | [Silver](Baekjoon/silver) | `실버 2` | [꽃길](Baekjoon/silver/b14620.md) | 2023-01-24 | :white_check_mark: |
 | 139 | [Silver](Baekjoon/silver) | `실버 1` | [단절점과 단절선](Baekjoon/silver/b14675.md) | 2023-01-26 | :white_check_mark: |
+| 140 | [Silver](Baekjoon/silver) | `실버 1` | [양팔저울](Baekjoon/silver/b17610.md) | 2023-01-26 | :white_check_mark: |
+| 141 | [Silver](Baekjoon/silver) | `실버 2` | [배열 돌리기](Baekjoon/silver/b17276.md) | 2023-01-30 | :white_check_mark: |
+| 142 | [Silver](Baekjoon/silver) | `실버 1` | [카드 구매하기 2](Baekjoon/silver/b16194.md) | 2023-01-30 | :white_check_mark: |
+| 143 | [Silver](Baekjoon/silver) | `실버 1` | [컴백홈](Baekjoon/silver/b1189.md) | 2023-02-02 | :white_check_mark: |
+| 144 | [Silver](Baekjoon/silver) | `실버 2` | [친구](Baekjoon/silver/b1058.md) | 2023-02-03 | :white_check_mark: |
+| 144 | [Silver](Baekjoon/silver) | `실버 1` | [오르막 수](Baekjoon/silver/b11057.md) | 2023-02-04 | :white_check_mark: |
+| 145 | [Gold](Baekjoon/gold) | `골드 5` | [압축](Baekjoon/gold/b1662.md) | 2023-02-09 | :white_check_mark: |
+
 
 
 
@@ -177,6 +187,8 @@
 | 9 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [타겟 넘버](Programmers/Lv.2/p43165.md) | 2022-10-19 | :white_check_mark: |
 | 10 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [게임 맵 최단거리](Programmers/Lv.2/p1844.md) | 2022-10-21 | :white_check_mark: |
 | 11 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [멀리 뛰기](Programmers/Lv.2/p12914.md) | 2022-10-21 | :white_check_mark: |
+| 12 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [오픈채팅방](Programmers/Lv.2/p42888.md) | 2023-02-06 | :white_check_mark: |
+| 13 | [Lv 2](Programmers/Lv.2) | `Lv 2` | [괄호 변환](Programmers/Lv.2/p60058.md) | 2023-02-06 | :white_check_mark: |
 
 </br>
 
