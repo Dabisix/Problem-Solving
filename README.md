@@ -168,7 +168,9 @@
 | 145 | [Silver](Baekjoon/silver) | `실버 1` | [오르막 수](Baekjoon/silver/b11057.md) | 2023-02-04 | :white_check_mark: |
 | 146 | [Gold](Baekjoon/gold) | `골드 5` | [압축](Baekjoon/gold/b1662.md) | 2023-02-09 | :white_check_mark: |
 | 147 | [Silver](Baekjoon/silver) | `실버 2` | [나무 자르기](Baekjoon/silver/b2805.md) | 2023-02-13 | :white_check_mark: |
-| 148 | [Gold](Baekjoon/gold) | `골드 5` | [0 만들기](Baekjoon/gold/b7490.md) | 2023-02-15 | :white_check_mark: |
+| 148 | [Silver](Baekjoon/silver) | `실버 1` | [줄어들지 않아](Baekjoon/silver/b2688.md) | 2023-02-14 | :white_check_mark: |
+| 149 | [Gold](Baekjoon/gold) | `골드 5` | [0 만들기](Baekjoon/gold/b7490.md) | 2023-02-15 | :white_check_mark: |
+| 150 | [Silver](Baekjoon/silver) | `실버 1` | [행렬](Baekjoon/silver/b1080.md) | 2023-02-16 | :white_check_mark: |
 
 
 
